@@ -1,15 +1,4 @@
-pseudo code
-{
-Initial Function()
-{
 This is F2 branch.
-}
-
-Initial Security()
-{
+This is F1 branch.
 print('this is F2 file.')
-}
-
-
-
-}
+print('This is F1 file.')
